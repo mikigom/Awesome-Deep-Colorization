@@ -22,7 +22,7 @@ Contribution is always welcome! :)
 - Pixel-level Semantics Guided Image Colorization (BMVC18)
 
 ## Point-guided or Scribble-guided Colorization
-- Real-Time User-Guided Image Colorization with Learned Deep Priors (SIGGRAPH17)
+- Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
 - User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks (ACM MM 18)
 
 ## Example-based Colorization
@@ -31,5 +31,5 @@ Contribution is always welcome! :)
 - Deep Exemplar-based Colorization (SIGGRAPH18)
 
 ## Hybrid Colorization
-- Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
+- Real-Time User-Guided Image Colorization with Learned Deep Priors (SIGGRAPH17)
 - Structural Consistency and Controllability for Diverse Colorization (ECCV18)
