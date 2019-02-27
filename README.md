@@ -21,7 +21,7 @@ Contribution is always welcome! :)
 - Toward Multimodal Image-to-image Translation (NIPS17)
 - Pixel-level Semantics Guided Image Colorization (BMVC18)
 
-## Point-based or Scribble-based Colorization
+## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
 - User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks (ACM MM 18)
 
