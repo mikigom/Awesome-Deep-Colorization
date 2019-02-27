@@ -3,6 +3,8 @@ A Curated Paper List of Deep Model based Image Colorization
 
 Last Update: 2019/02/27
 
+Contribution is always welcome! :)
+
 ## Non-reference Colorization
 - Deep Colorization (ICCV15)
 - Learning Large-scale Automatic Image Colorization (ICCV15)
