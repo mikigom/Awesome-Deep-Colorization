@@ -17,10 +17,12 @@ Contribution is always welcome! :)
 - Image-to-image Translation with Conditional Adversarial Networks (CVPR17)
 - Probabilistic Image Colorization (BMVC17)
 - Pixcolor: Pixel Recursive Colorization (BMVC17)
+- Consistent Comic Colorization with Pixel-wise Background Classification (NIPSW17)
 - Unsupervised Diverse Colorization via Generative Adversarial Networks (ECML PKDD17)
 - Toward Multimodal Image-to-image Translation (NIPS17)
 - Pixel-level Semantics Guided Image Colorization (BMVC18)
 - Fully Automatic Video Colorization With Self-Regularization and Diversity (CVPR19)
+- Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks (CVPRW19)
 
 ## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
