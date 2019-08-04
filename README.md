@@ -29,6 +29,7 @@ Contribution is always welcome! :)
 - Comicolorization: Semi-automatic Manga Colorization (SIGGRAPH-ASIA17)
 - Progressive Color Transfer with Dense Semantic Correspondences (TOG17)
 - Deep Exemplar-based Colorization (SIGGRAPH18)
+- Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors (SIGGRAPH19)
 
 ## Hybrid Colorization
 - Real-Time User-Guided Image Colorization with Learned Deep Priors (SIGGRAPH17)
