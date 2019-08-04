@@ -33,6 +33,7 @@ Contribution is always welcome! :)
 - Deep Exemplar-Based Video Colorization (CVPR19)
 - Learning a Deep Convolutional Network for Colorization in Monochrome-Color Dual-Lens System (AAAI19)
 - Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors (SIGGRAPH19)
+- A Superpixel-based Variational Model for Image Colorization (TVCG19)
 
 ## Hybrid Colorization
 - Real-Time User-Guided Image Colorization with Learned Deep Priors (SIGGRAPH17)
