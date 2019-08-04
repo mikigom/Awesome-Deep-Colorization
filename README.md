@@ -20,6 +20,7 @@ Contribution is always welcome! :)
 - Unsupervised Diverse Colorization via Generative Adversarial Networks (ECML PKDD17)
 - Toward Multimodal Image-to-image Translation (NIPS17)
 - Pixel-level Semantics Guided Image Colorization (BMVC18)
+- Fully Automatic Video Colorization With Self-Regularization and Diversity (CVPR19)
 
 ## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
@@ -30,6 +31,7 @@ Contribution is always welcome! :)
 - Progressive Color Transfer with Dense Semantic Correspondences (TOG17)
 - Deep Exemplar-based Colorization (SIGGRAPH18)
 - Deep Exemplar-Based Video Colorization (CVPR19)
+- Learning a Deep Convolutional Network for Colorization in Monochrome-Color Dual-Lens System (AAAI19)
 - Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors (SIGGRAPH19)
 
 ## Hybrid Colorization
