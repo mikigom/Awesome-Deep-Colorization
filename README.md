@@ -31,6 +31,7 @@ Contribution is always welcome! :)
 ## Example-based Colorization
 - Comicolorization: Semi-automatic Manga Colorization (SIGGRAPH-ASIA17)
 - Progressive Color Transfer with Dense Semantic Correspondences (TOG17)
+- Deep Video Color Propagation (BMVC18)
 - Deep Exemplar-based Colorization (SIGGRAPH18)
 - Deep Exemplar-Based Video Colorization (CVPR19)
 - Learning a Deep Convolutional Network for Colorization in Monochrome-Color Dual-Lens System (AAAI19)
