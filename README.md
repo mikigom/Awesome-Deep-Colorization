@@ -37,12 +37,12 @@ Contribution is always welcome! :)
 - Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors (SIGGRAPH19)
 - A Superpixel-based Variational Model for Image Colorization (TVCG19)
 
-## Hybrid Colorization
+## Hybrid Colorization / Non-image guided Colorization
+- PaletteNet: Image Recolorization with Given Color Palette (CVPRW17)
 - Real-Time User-Guided Image Colorization with Learned Deep Priors (SIGGRAPH17)
 - Structural Consistency and Controllability for Diverse Colorization (ECCV18)
-
-## Non-image guided Colorization
 - Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation (ECCV18)
+- Interactive Deep Colorization with Simultaneous Global and Local Inputs (ICASSP19)
 
 ## Colorization as Proxy Task
 - Colorization as a Proxy Task for Visual Understanding (CVPR17)
