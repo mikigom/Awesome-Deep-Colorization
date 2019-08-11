@@ -40,3 +40,8 @@ Contribution is always welcome! :)
 ## Hybrid Colorization
 - Real-Time User-Guided Image Colorization with Learned Deep Priors (SIGGRAPH17)
 - Structural Consistency and Controllability for Diverse Colorization (ECCV18)
+
+## Colorization as Proxy Task
+- Colorization as a Proxy Task for Visual Understanding (CVPR17)
+- Split-brain Autoencoders: Unsupervised Learning by Cross-channel Prediction (CVPR17)
+- Tracking Emerges by Colorizing Videos (ECCV18)
