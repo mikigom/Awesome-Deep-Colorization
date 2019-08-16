@@ -67,6 +67,6 @@ Contribution is always welcome! :)
 - Fake Colorized Image Detection (TIFS18)
 
 # TBD
-- [ ] Add **Color Transfer**
+- [ ] Add Task: **Color Transfer**
 - [ ] Explore more top-tier journal articles
 - [ ] More detailed categorization
