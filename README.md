@@ -18,7 +18,7 @@ Contribution is always welcome! :)
 - Probabilistic Image Colorization (BMVC17)
 - Pixcolor: Pixel Recursive Colorization (BMVC17)
 - Consistent Comic Colorization with Pixel-wise Background Classification (NIPSW17)
-- Unsupervised Diverse Colorization via Generative Adversarial Networks (ECML PKDD17)
+- Unsupervised Diverse Colorization via Generative Adversarial Networks (ECML-PKDD17)
 - Toward Multimodal Image-to-image Translation (NIPS17)
 - Pixel-level Semantics Guided Image Colorization (BMVC18)
 - Fully Automatic Video Colorization With Self-Regularization and Diversity (CVPR19)
@@ -26,6 +26,7 @@ Contribution is always welcome! :)
 
 ## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
+- Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Wasserstein Generative Adversarial Networks (Neurocomputing)
 - User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks (ACM MM 18)
 
 ## Example-based Colorization
