@@ -61,4 +61,5 @@ Contribution is always welcome! :)
 - Tracking Emerges by Colorizing Videos (ECCV18)
 
 ## Misc.
+- Learning Generative Neural Networks for 3D Coloriza (AAAI18)
 - Fake Colorized Image Detection (TIFS18)
