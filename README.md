@@ -53,4 +53,5 @@ Contribution is always welcome! :)
 - Tracking Emerges by Colorizing Videos (ECCV18)
 
 ## Misc.
+- (DE)^2CO: Deep Depth Colorization (LRA18)
 - Fake Colorized Image Detection (TIFS18)
