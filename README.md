@@ -3,7 +3,7 @@ A Non-exhaustive but Curated Paper List of Deep Learning based Image/Video Color
 
 Last Update: 2019/08/17
 
-Contribution is always welcome! :)
+Correction & Contribution are always welcome! :)
 
 ## Non-reference Colorization
 - Deep Colorization (ICCV15)
