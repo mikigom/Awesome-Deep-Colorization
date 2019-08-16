@@ -28,6 +28,7 @@ Contribution is always welcome! :)
 - Fully Automatic Video Colorization With Self-Regularization and Diversity (CVPR19)
 - Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks (CVPRW19)
 - Image Colorization by Capsule Networks (CVPRW19)
+- Robust Image Colorization Using Self Attention Based Progressive Generative Adversarial Network (CVPRW19)
 
 ## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
