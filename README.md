@@ -1,5 +1,5 @@
 # Awsome-Deep-Colorization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A Non-exhaustive but Curated Paper List of Deep Learning based Image/Video Colorization
+A Non-exhaustive but Curated Paper List of Deep Learning based Image/Video Colorization (i.e., from Luminance to Chrominance)
 
 Last Update: 2019/08/12
 
@@ -12,6 +12,7 @@ Contribution is always welcome! :)
 - Deep Patch-wise Colorization Model for Grayscale Images (SIGGRAPH-ASIA16)
 - Colorful Image Colorization (ECCV16)
 - Learning Representations for Automatic Colorization (ECCV16)
+- Multiple hypothesis colorization and its application to image compression (CVIU17)
 - Colorization Using Neural Network Ensemble (TIP17)
 - Generalized Deep Image to Image Regression (CVPR17)
 - Learning Diverse Image Colorization (CVPR17)
@@ -58,7 +59,4 @@ Contribution is always welcome! :)
 - Tracking Emerges by Colorizing Videos (ECCV18)
 
 ## Misc.
-- Generating visible spectrum images from thermal infrared (CVPRW18)
-- Unpaired Thermal to Visible Spectrum Transfer using Adversarial Training (ECCVW18)
-- (DE)^2CO: Deep Depth Colorization (LRA18)
 - Fake Colorized Image Detection (TIFS18)
