@@ -47,6 +47,7 @@ Contribution is always welcome! :)
 - Learning a Deep Convolutional Network for Colorization in Monochrome-Color Dual-Lens System (AAAI19)
 - Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors (SIGGRAPH19)
 - A Superpixel-based Variational Model for Image Colorization (TVCG19)
+- Example‐Based Colourization Via Dense Encoding Pyramids (CGF19)
 
 ## Hybrid Colorization / Non-image guided Colorization
 - PaletteNet: Image Recolorization with Given Color Palette (CVPRW17)
