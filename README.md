@@ -22,17 +22,21 @@ Contribution is always welcome! :)
 - Unsupervised Diverse Colorization via Generative Adversarial Networks (ECML-PKDD17)
 - Toward Multimodal Image-to-image Translation (NIPS17)
 - Pixel-level Semantics Guided Image Colorization (BMVC18)
+- An edge-refined vectorized deep colorization model for grayscale-to-color images (Neurocomputing 18)
+- Scene Guided Colorization using Neural Networks (Neural Computing and Applications 18)
 - Fully Automatic Video Colorization With Self-Regularization and Diversity (CVPR19)
 - Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks (CVPRW19)
 
 ## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
-- Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Wasserstein Generative Adversarial Networks (Neurocomputing18)
+- Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Wasserstein Generative Adversarial Networks (Neurocomputing 18)
+- Two-stage sketch colorization (TOG18)
 - User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks (ACM MM 18)
+- Scribble-based colorization for creating smooth-shaded vector graphics (Computers & Graphics 19)
 
 ## Example-based Colorization
 - Comicolorization: Semi-automatic Manga Colorization (SIGGRAPH-ASIA17)
-- Example-based Image Colorization via Automatic Feature Selection and Fusion (Neurocomputing17)
+- Example-based Image Colorization via Automatic Feature Selection and Fusion (Neurocomputing 17)
 - Progressive Color Transfer with Dense Semantic Correspondences (TOG17)
 - Deep Video Color Propagation (BMVC18)
 - Deep Exemplar-based Colorization (SIGGRAPH18)
@@ -54,5 +58,7 @@ Contribution is always welcome! :)
 - Tracking Emerges by Colorizing Videos (ECCV18)
 
 ## Misc.
+- Generating visible spectrum images from thermal infrared (CVPRW18)
+- Unpaired Thermal to Visible Spectrum Transfer using Adversarial Training (ECCVW18)
 - (DE)^2CO: Deep Depth Colorization (LRA18)
 - Fake Colorized Image Detection (TIFS18)
