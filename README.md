@@ -27,6 +27,7 @@ Contribution is always welcome! :)
 - Scene Guided Colorization using Neural Networks (Neural Computing and Applications 18)
 - Fully Automatic Video Colorization With Self-Regularization and Diversity (CVPR19)
 - Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks (CVPRW19)
+- Image Colorization by Capsule Networks (CVPRW19)
 
 ## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
