@@ -65,3 +65,8 @@ Contribution is always welcome! :)
 ## Misc.
 - Learning Generative Neural Networks for 3D Coloriza (AAAI18)
 - Fake Colorized Image Detection (TIFS18)
+
+# TBD
+- [ ] Add **Color Transfer**
+- [ ] Explore more top-tier journal articles
+- [ ] More detailed categorization
