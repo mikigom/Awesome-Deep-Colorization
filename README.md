@@ -26,11 +26,12 @@ Contribution is always welcome! :)
 
 ## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17)
-- Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Wasserstein Generative Adversarial Networks (Neurocomputing)
+- Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Wasserstein Generative Adversarial Networks (Neurocomputing18)
 - User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks (ACM MM 18)
 
 ## Example-based Colorization
 - Comicolorization: Semi-automatic Manga Colorization (SIGGRAPH-ASIA17)
+- Example-based Image Colorization via Automatic Feature Selection and Fusion (Neurocomputing17)
 - Progressive Color Transfer with Dense Semantic Correspondences (TOG17)
 - Deep Video Color Propagation (BMVC18)
 - Deep Exemplar-based Colorization (SIGGRAPH18)
@@ -50,3 +51,6 @@ Contribution is always welcome! :)
 - Colorization as a Proxy Task for Visual Understanding (CVPR17)
 - Split-brain Autoencoders: Unsupervised Learning by Cross-channel Prediction (CVPR17)
 - Tracking Emerges by Colorizing Videos (ECCV18)
+
+## Misc.
+- Fake Colorized Image Detection (TIFS18)
