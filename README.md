@@ -66,7 +66,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Tracking Emerges by Colorizing Videos (ECCV18)
 
 ## Misc.
-- Learning Generative Neural Networks for 3D Coloriza (AAAI18)
+- Learning Generative Neural Networks for 3D Colorization (AAAI18)
 - Fake Colorized Image Detection (TIFS18)
 
 # TBD
