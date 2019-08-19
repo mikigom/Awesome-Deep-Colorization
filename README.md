@@ -2,7 +2,7 @@
 A Non-exhaustive but Curated Paper List of Deep Learning based Image/Video Colorization
 - *Colorization*: **from Luminance to Chrominance**
 
-Last Update: 2019/08/17
+Last Update: 2019/08/20
 
 Correction & Contribution are always welcome! :)
 
@@ -59,6 +59,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Structural Consistency and Controllability for Diverse Colorization (ECCV18)
 - Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation (ECCV18)
 - Interactive Deep Colorization with Simultaneous Global and Local Inputs (ICASSP19)
+- Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss (ICCV19)
 
 ## Colorization as Proxy Task
 - Colorization as a Proxy Task for Visual Understanding (CVPR17)
