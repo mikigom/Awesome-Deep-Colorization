@@ -6,7 +6,7 @@ Last Update: 2019/08/20
 
 Correction & Contribution are always welcome! :)
 
-Selected Venue and journal are based on ranking of [Google Scholar Metric](https://scholar.google.com/citations?view_op=top_venues).
+Selected Venue and journal are based on ranking of [Google Scholar Metric](https://scholar.google.com/citations?view_op=top_venues). (Of course, with some exceptions.)
 
 ## Non-reference Colorization
 - Deep Colorization (ICCV15)
