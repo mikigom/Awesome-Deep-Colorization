@@ -42,6 +42,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Scribble-based colorization for creating smooth-shaded vector graphics (Computers & Graphics 19)
 
 ## Example-based Colorization
+- Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN (ACPR17)
 - Comicolorization: Semi-automatic Manga Colorization (SIGGRAPH-ASIA17)
 - Example-based Image Colorization via Automatic Feature Selection and Fusion (Neurocomputing 17)
 - Progressive Color Transfer with Dense Semantic Correspondences (TOG17)
