@@ -61,6 +61,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation (ECCV18) [arXiv](https://arxiv.org/abs/1804.04128)
 - Interactive Deep Colorization with Simultaneous Global and Local Inputs (ICASSP19) [arXiv](https://arxiv.org/abs/1801.09083)
 - Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss (ICCV19) [arXiv](https://arxiv.org/abs/1908.05840)
+- Language-based colorization of scene sketches (TOG19) [ACM DL](https://dl.acm.org/doi/abs/10.1145/3355089.3356561)
 
 ## Colorization as Proxy Task
 - Colorization as a Proxy Task for Visual Understanding (CVPR17) [arXiv](https://arxiv.org/abs/1703.04044)
