@@ -2,7 +2,7 @@
 A Non-exhaustive but Curated Paper List of Deep Learning based Image/Video Colorization
 - *Colorization*: **from Luminance to Chrominance**
 
-Last Update: 2019/08/20
+Last Update: 2020/02/05
 
 Correction & Contribution are always welcome! :)
 
