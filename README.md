@@ -1,4 +1,4 @@
-# Awsome-Deep-Colorization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Deep-Colorization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A Non-exhaustive but Curated Paper List of Deep Learning based Image/Video Colorization
 - *Colorization*: **from Luminance to Chrominance**
 
