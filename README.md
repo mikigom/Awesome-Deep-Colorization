@@ -49,6 +49,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Progressive Color Transfer with Dense Semantic Correspondences (TOG17) [arXiv](https://arxiv.org/abs/1710.00756)
 - Deep Video Color Propagation (BMVC18) [arXiv](https://arxiv.org/abs/1808.03232)
 - Deep Exemplar-based Colorization (SIGGRAPH18) [arXiv](https://arxiv.org/abs/1807.06587)
+- Adversarial Colorization of Icons Based on Contour and Color Conditions (ACM MM 19) [ACM DL](https://dl.acm.org/doi/abs/10.1145/3343031.3351041)
 - Deep Exemplar-Based Video Colorization (CVPR19) [arXiv](https://arxiv.org/abs/1906.09909)
 - Learning a Deep Convolutional Network for Colorization in Monochrome-Color Dual-Lens System (AAAI19) [AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/4837)
 - Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors (SIGGRAPH19) [ACM DL](https://dl.acm.org/citation.cfm?id=3338585)
