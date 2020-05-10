@@ -32,7 +32,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Fully Automatic Video Colorization With Self-Regularization and Diversity (CVPR19) [arXiv](https://arxiv.org/abs/1908.01311)
 - Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks (CVPR19) [arXiv](https://arxiv.org/abs/1906.11888)
 - Image Colorization by Capsule Networks (CVPRW19) [CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Ozbulak_Image_Colorization_by_Capsule_Networks_CVPRW_2019_paper.html)
-- Robust Image Colorization Using Self Attention Based Progressive Generative Adversarial Network (CVPRW19) [CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Sharma_Robust_Image_Colorization_Using_Self_Attention_Based_Progressive_Generative_Adversarial_CVPRW_2019_paper.html)
+- DeOldify (https://github.com/jantic/DeOldify)
 - ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution (WACV20) [CVF](http://openaccess.thecvf.com/content_WACV_2020/html/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.html)
 
 ## Point-guided or Scribble-guided Colorization
