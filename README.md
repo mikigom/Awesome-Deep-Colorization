@@ -2,7 +2,7 @@
 A Non-exhaustive but Curated Paper List of Deep Learning based Image/Video Colorization
 - *Colorization*: **from Luminance to Chrominance**
 
-Last Update: 2020/04/03
+Last Update: 2020/08/06
 
 Correction & Contribution are always welcome! :)
 
@@ -32,8 +32,8 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Fully Automatic Video Colorization With Self-Regularization and Diversity (CVPR19) [arXiv](https://arxiv.org/abs/1908.01311)
 - Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks (CVPR19) [arXiv](https://arxiv.org/abs/1906.11888)
 - Image Colorization by Capsule Networks (CVPRW19) [CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Ozbulak_Image_Colorization_by_Capsule_Networks_CVPRW_2019_paper.html)
-- DeOldify (https://github.com/jantic/DeOldify)
 - ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution (WACV20) [CVF](http://openaccess.thecvf.com/content_WACV_2020/html/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.html)
+- Instance-aware Image Colorization (CVPR20) [arXiv](https://arxiv.org/abs/2005.10825)
 
 ## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17) [arXiv](https://arxiv.org/abs/1612.00835)
@@ -55,6 +55,8 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors (SIGGRAPH19) [ACM DL](https://dl.acm.org/citation.cfm?id=3338585)
 - A Superpixel-based Variational Model for Image Colorization (TVCG19) [IEEE Xplore](https://ieeexplore.ieee.org/document/8676327)
 - Example‐Based Colourization Via Dense Encoding Pyramids (CGF19) [Willey OL](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13659)
+- Reference-Based Sketch Image Colorization usingAugmented-Self Reference and Dense Semantic Correspondence (CVPR20) [arXiv](https://arxiv.org/abs/2005.05207)
+- Stylization-Based Architecture for Fast Deep Exemplar Colorization (CVPR20) [CVF](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.html)
 
 ## Hybrid Colorization / Non-image guided Colorization
 - PaletteNet: Image Recolorization with Given Color Palette (CVPRW17) [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8014877)
