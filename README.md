@@ -55,7 +55,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors (SIGGRAPH19) [ACM DL](https://dl.acm.org/citation.cfm?id=3338585)
 - A Superpixel-based Variational Model for Image Colorization (TVCG19) [IEEE Xplore](https://ieeexplore.ieee.org/document/8676327)
 - Example‐Based Colourization Via Dense Encoding Pyramids (CGF19) [Willey OL](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13659)
-- Reference-Based Sketch Image Colorization usingAugmented-Self Reference and Dense Semantic Correspondence (CVPR20) [arXiv](https://arxiv.org/abs/2005.05207)
+- Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence (CVPR20) [arXiv](https://arxiv.org/abs/2005.05207)
 - Stylization-Based Architecture for Fast Deep Exemplar Colorization (CVPR20) [CVF](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.html)
 
 ## Hybrid Colorization / Non-image guided Colorization
