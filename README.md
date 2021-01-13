@@ -2,7 +2,7 @@
 A Non-exhaustive but Curated Paper List of Deep Learning based Image/Video Colorization
 - *Colorization*: **from Luminance to Chrominance**
 
-Last Update: 2020/08/06
+Last Update: 2021/01/14
 
 Correction & Contribution are always welcome! :)
 
@@ -34,6 +34,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Image Colorization by Capsule Networks (CVPRW19) [CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Ozbulak_Image_Colorization_by_Capsule_Networks_CVPRW_2019_paper.html)
 - ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution (WACV20) [CVF](http://openaccess.thecvf.com/content_WACV_2020/html/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.html)
 - Instance-aware Image Colorization (CVPR20) [arXiv](https://arxiv.org/abs/2005.10825)
+- Colorization Transformer (ICLR21) [OpenReview](https://openreview.net/forum?id=5NA1PinlGFu)
 
 ## Point-guided or Scribble-guided Colorization
 - Scribbler: Controlling Deep Image Synthesis with Sketch and Color (CVPR17) [arXiv](https://arxiv.org/abs/1612.00835)
@@ -75,6 +76,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 ## Misc.
 - Learning Generative Neural Networks for 3D Colorization (AAAI18) [pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjvyL_6rY_kAhUbA4gKHZEcAAEQFjAAegQICBAC&url=https%3A%2F%2Fwww.aaai.org%2Focs%2Findex.php%2FAAAI%2FAAAI18%2Fpaper%2Fdownload%2F17379%2F15977&usg=AOvVaw0HHuMKlpJ8eZTZq3RPPKDS)
 - Fake Colorized Image Detection (TIFS18) [arXiv](https://arxiv.org/abs/1801.02768)
+- Colorfool: Semantic adversarial colorization (CVPR20) [CVF](https://openaccess.thecvf.com/content_CVPR_2020/html/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.html)
 
 # TBD
 - [ ] Add Task: **Color Transfer**
