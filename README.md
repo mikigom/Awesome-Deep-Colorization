@@ -2,7 +2,7 @@
 A Non-exhaustive but Curated Paper List of Deep Learning based Image/Video Colorization
 - *Colorization*: **from Luminance to Chrominance**
 
-Last Update: 2021/01/14
+Last Update: 2021/07/05
 
 Correction & Contribution are always welcome! :)
 
@@ -42,6 +42,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Two-stage sketch colorization (TOG18) [ACM DL](https://dl.acm.org/citation.cfm?id=3275090)
 - User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks (ACM MM 18) [arXiv](https://arxiv.org/abs/1808.03240)
 - Scribble-based colorization for creating smooth-shaded vector graphics (Computers & Graphics 19) [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0097849319300445)
+- User-Guided Line Art Flat Filling with Split Filling Mechanism (CVPR21) [CVF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf)
 
 ## Example-based Colorization
 - Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN (ACPR17) [arXiv](https://arxiv.org/abs/1706.03319)
@@ -67,6 +68,7 @@ Selected Venue and journal are based on ranking of [Google Scholar Metric](https
 - Interactive Deep Colorization with Simultaneous Global and Local Inputs (ICASSP19) [arXiv](https://arxiv.org/abs/1801.09083)
 - Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss (ICCV19) [arXiv](https://arxiv.org/abs/1908.05840)
 - Language-based colorization of scene sketches (TOG19) [ACM DL](https://dl.acm.org/doi/abs/10.1145/3355089.3356561)
+- HistoGAN:Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR21) [CVF](https://openaccess.thecvf.com/content/CVPR2021/papers/Afifi_HistoGAN_Controlling_Colors_of_GAN-Generated_and_Real_Images_via_Color_CVPR_2021_paper.pdf)
 
 ## Colorization as Proxy Task
 - Colorization as a Proxy Task for Visual Understanding (CVPR17) [arXiv](https://arxiv.org/abs/1703.04044)
